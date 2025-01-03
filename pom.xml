@@ -121,6 +121,7 @@
 			</plugin>
 
 		</plugins>
+		<finalName>emp-service</finalName>
 	</build>
 
 </project>
